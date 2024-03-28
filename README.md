@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, Soy Pablo</h1>
 <h3 align="center">Ingeniero en desarrollo</h3>
+<img align="right" alt="Coding" width="400" src="computer.gif">
 
-- 🔭 Trabajando en proyectos de **migración de obsolescencia**
+- 🔭 Trabajando en proyectos de **Migración de Obsolescencia y Personales**
 
 - 🌱 Aprendiendo continuamente **herramientas Cloud**
 
