@@ -4,9 +4,9 @@
 
 - 🔭 Trabajando en proyectos de **Migración de Obsolescencia y Personales**
 
-- 🌱 Aprendiendo continuamente **herramientas Cloud**
+- 🌱 Aprendiendo continuamente **Herramientas Cloud**
 
-- 👯 Me encuentro colaborando en **proyectos de CMS**
+- 👯 Me encuentro colaborando en **Proyectos de CMS y API's**
 
 - 💬 Pregúntame acerca de **.NET, SQL**
 
